@@ -1,6 +1,5 @@
 
-
-### 🚗 Car Rental Site Project Description
+### 💼 Paid Company Project: Car Rental Site Description
 
 **Project Overview:**
 The car rental site serves as a platform for users to easily browse, book, and manage car rentals. Designed primarily for a seamless user experience, it facilitates various functionalities necessary for both customers and administrators. 🌐
