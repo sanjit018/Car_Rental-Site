@@ -17,8 +17,8 @@ require 'vendor/autoload.php';
         $mail->isSMTP();                                              //Send using SMTP
         $mail->Host       = 'smtp.zoho.in';                          //Set the SMTP server to send through
         $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-        $mail->Username   = 'prdigital224@gmail.com';              //SMTP user
-        $mail->Password   = 'Prassociates@2024';                  //SMTP password
+        $mail->Username   = '';                                    //SMTP user
+        $mail->Password   = '';                                   //SMTP password
         $mail->SMTPSecure = 'ssl';                               //Enable implicit TLS encryption
         $mail->Port       = 465;                                //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
         $mail->SMTPOptions=array(
